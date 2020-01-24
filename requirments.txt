@@ -1,0 +1,14 @@
+certifi==2019.11.28
+chardet==3.0.4
+decorator==4.4.1
+idna==2.8
+pyfiglet==0.8.post1
+PyJWT==1.7.1
+pynput==1.6.5
+pytz==2019.3
+requests==2.22.0
+schedule==0.6.0
+six==1.14.0
+twilio==6.35.3
+urllib3==1.25.7
+validators==0.14.1

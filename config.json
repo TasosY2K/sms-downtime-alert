@@ -1,0 +1,8 @@
+{
+  "account_sid":"twilio_sid",
+  "auth_token":"twilio_token",
+  "url":"your_url",
+  "recieve_number":"your_number",
+  "send_number":"twilio_number",
+  "interval":"1"
+}
